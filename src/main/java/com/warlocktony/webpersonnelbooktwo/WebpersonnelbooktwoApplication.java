@@ -9,5 +9,4 @@ public class WebpersonnelbooktwoApplication {
     public static void main(String[] args) {
         SpringApplication.run(WebpersonnelbooktwoApplication.class, args);
     }
-
 }
